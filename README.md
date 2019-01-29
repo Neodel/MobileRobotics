@@ -1,13 +1,13 @@
-# Implementation Project - Apollo20
+# Mobile Robotics Project 
 
-This project aims to control a 5R-plan drawer robot through a GUI. To do so, we used a beaglebone black and 2 controlled joint, which drive the whole system.
+This project aims to control a Pioneer or a MiniLab robot on simulation then in real condition. To do so, we used ROS to program a controller able to move the robot.
 
 
 Authors : Loïc Kerboriou, Toledo P. Bruna
 
 Release : February 2019
 
-Polytech Sorbonne Engineering School - Major in Robotics
+Sorbonne University Engineering School - Major in Robotics
 
 Location : Paris, France
 
