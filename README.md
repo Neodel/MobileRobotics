@@ -34,6 +34,8 @@ https://docs.opencv.org/3.0-beta/doc/tutorials/introduction/linux_install/linux_
 
 ### Initializing and running
 
+CAREFULL : Actually the whole project is not on this page, some package are not there yet. You can not now run the program as following. 
+
 Open a terminal and place yourself on ROS directory (usually catkin_ws). Check that you got a controller (as a Xbox controller) connected to your computer.
 
 Launch the simulation with the command
