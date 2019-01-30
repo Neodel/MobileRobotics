@@ -31,6 +31,10 @@ OpenCV
 https://docs.opencv.org/3.0-beta/doc/tutorials/introduction/linux_install/linux_install.html
 ```
 
+Slam_karto
+```
+https://github.com/ros-perception/slam_karto
+```
 
 ### Initializing and running
 
